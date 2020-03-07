@@ -1,0 +1,15 @@
+html,
+body{
+    background: #ccbbc5;
+    color: #2b3338;
+    font-size: 1.2rem;
+    margin: 0;
+
+}
+main{
+    margin: 3rem auto;
+    width: 90vw;
+}
+h1{
+ color: #242224;
+}
