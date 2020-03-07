@@ -12,7 +12,6 @@ const listRepos = async username => {
             ${repo.stargazers_count}
         `)
         .join('');
-
     const content = document.getElementById('content');
     content.innerHTML = `<ul>${markup}</ul>`
 };
